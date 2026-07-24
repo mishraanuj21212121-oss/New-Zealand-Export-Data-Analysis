@@ -1,4 +1,4 @@
-# 🇳🇿 New Zealand Sales & Export Data Analysis
+# New Zealand Sales & Export Data Analysis
 
 An interactive **Power BI Dashboard** analyzing global sales, profits, item demand, and regional market distribution for New Zealand export operations across a 2010–2017 timeline.
 
@@ -6,7 +6,7 @@ An interactive **Power BI Dashboard** analyzing global sales, profits, item dema
 
 ## 📸 Dashboard Showcase
 
-(Screenshot 2026-07-24 172712.png)
+![New Zealand Sales Dashboard](./screenshots/Screenshot_2026-07-24_172712.png)
 
 ---
 
