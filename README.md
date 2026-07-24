@@ -6,7 +6,7 @@ An interactive **Power BI Dashboard** analyzing global sales, profits, item dema
 
 ## 📸 Dashboard Showcase
 
-![New Zealand Sales Dashboard](Screenshot 2026-07-24 172712.png)
+[New Zealand Sales Dashboard](Screenshot 2026-07-24 172712.png)
 
 ---
 
